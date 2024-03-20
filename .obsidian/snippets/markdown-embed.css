@@ -1,0 +1,37 @@
+.markdown-embed-content {
+	max-height: none !important;
+}
+
+.markdown-source-view .markdown-embed, .markdown-source-view .file-embed {
+ 	border: inherit;
+	/*border-bottom: 1px solid var(--background-modifier-border);
+	border-top: 1px solid var(--background-modifier-border);*/
+	padding: 0px 5px;
+	border-radius: 0px;
+}
+
+.markdown-embed {
+    /*padding-left: 10px !important;
+    padding-right: 10px !important;*/
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.markdown-embed .markdown-preview-view {
+    padding: 0px; /*20px 10px 10px 10px;*/
+}
+
+/*
+.internal-embed {
+    backdrop-filter: brightness(0.8);
+	padding-left: 30px;
+}*/
+
+.markdown-embed-title {
+	display: none;
+}
+
+.markdown-embed-link, .file-embed-link {
+	right: 8px;
+}
+

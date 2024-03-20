@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "cabf793444576813",
+    "type": "split",
+    "children": [
+      {
+        "id": "776bfa249fb96550",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cda6ea48723c67a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "caa411cfd92d2868",
+    "type": "split",
+    "children": [
+      {
+        "id": "79e36e6ce30546d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9fed3aecea5546d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a284250e5a909971",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "428b6ecf5acac02a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea023e63eaebc407",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "21085e5671fb51bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "82f68a8271d5b35c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8fc7548099888a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Readme.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3cdc31005597d19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Readme.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f0943681c359188d",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a9fed3aecea5546d",
+  "lastOpenFiles": [
+    "Resources/Thumbnail.png",
+    "Maps and Rules/Pencils and Powers/__source.md",
+    "Readme.md",
+    "LICENSE",
+    "SOLO-RPG/LICENSE",
+    "SOLO-RPG",
+    "Games/Game 2024-03-18.md",
+    "Games/_Sample Game mid way.md",
+    "Templates/A4 - Dragon Castle Challenge (1).md",
+    "Maps and Rules/Pencils and Powers/Rules/PNP-Rules-A4-DCC.md",
+    "Maps and Rules/Pencils and Powers/PNP-Adventure-A4-DCC.pdf",
+    "Games/Game 2024-03-18_0.md",
+    "Resources/game-icons/__source.md",
+    "Maps and Rules/Pencils and Powers/Rules/PNP-Rules.md",
+    "Templates/A1 - The Dread Knight.md",
+    "Maps and Rules/Pencils and Powers/Rules/PNP-Rules-A2-TCA.md",
+    "Maps and Rules/Pencils and Powers/Rules/PNP-Rules-A1-TDK.md",
+    "Maps and Rules/Pencils and Powers/Rules",
+    "Templates/A3 - The Crazed Alchemist.md",
+    "Resources/game-icons/slime.svg",
+    "Resources/game-icons/think.svg",
+    "Games/Game 2024-03-17.md",
+    "Resources/game-icons/ogre.svg",
+    "Resources/game-icons/one-eyed.svg",
+    "Resources/game-icons/doctor-face.svg",
+    "Maps and Rules/Pencils and Powers/PNP-Adventure-A3-TCA.pdf",
+    "Templates/A2 - The Forgotten King.md",
+    "Games/Game 2024-03-17_0.md",
+    "Maps and Rules/Pencils and Powers/Rules/PNP-Rules-A2-TFK.md",
+    "Resources/game-icons/thunder-skull-modified.svg",
+    "Resources/game-icons/goblin-head.svg",
+    "Resources/game-icons/barbarian.svg",
+    "Resources/game-icons/barbute.svg",
+    "Resources/game-icons/crowned-skull.svg",
+    "Maps and Rules/Pencils and Powers/PNP-Adventure-A2-TFK.pdf",
+    "Maps and Rules/Pencils and Powers/PNP-Adventure-A1-TDK.pdf",
+    "Maps and Rules/Pencils and Powers/PNP-Adventure-AO.pdf",
+    "Maps and Rules/Pencils and Powers/PNP-Adventure-AHE.pdf",
+    "Resources/Excalidraw/Scripts/Downloaded/Palette loader.md",
+    "Resources/Excalidraw/Scripts/Downloaded/Set Dimensions.md",
+    "Resources/Excalidraw/Scripts/Downloaded/Rename Image.md"
+  ]
+}

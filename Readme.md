@@ -7,4 +7,4 @@ I am looking for contributors. Feel free to open a PR to add additional game she
 
 Watch this short video to see this Vault in action.
 
-[![](Thumbnail.png)](https://youtu.be/gTHYdABfpQs)
+[![](Resources/Thumbnail.png)](https://youtu.be/gTHYdABfpQs)
